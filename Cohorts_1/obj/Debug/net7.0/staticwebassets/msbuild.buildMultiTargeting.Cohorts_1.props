@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cohorts_1.props" />
+</Project>
